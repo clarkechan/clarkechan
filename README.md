@@ -2,6 +2,7 @@
 <a href='https://www.linkedin.com/in/clarke-chan-56874319b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/Clarke_Chan_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/twitter.svg" height='18px'/></a>
 
+
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
