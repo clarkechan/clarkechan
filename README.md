@@ -8,7 +8,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/main/techstack.gif?token=GHSAT0AAAAAAB3VRVRKPG74A2A5SILWEWPCY72CONA" width="360px"/>
 
 ### 🧐 More About Me:
 
