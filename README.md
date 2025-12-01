@@ -3,7 +3,7 @@
 <a href='https://www.linkedin.com/in/clarke-chan-803701399/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/mrclarkechan'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/twitter.svg" height='18px'/></a>
 
-<br><br>
+<br>
 
 ## 🚀 About Me
 
@@ -20,6 +20,10 @@ I’m a **Software Engineer** focusing on:
 I love building automation systems that run on real production lines,  
 where **software meets hardware**.
 
+<br/>
+<br/><br/>
+<br/>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/main/techstack.gif" width="330px"/>
 
 ### 🧐 More About Me
@@ -27,7 +31,7 @@ where **software meets hardware**.
 - 🌱 Learning **TypeScript** & **AI training workflows**
 - 👨🏻‍💻 Working on multiple **industrial inspection systems**
 - 💬 Open to discussing automation, machine vision & C#
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/clarke-chan-56874319b)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/clarke-chan-803701399/)
 
 <br>
 
