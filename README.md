@@ -1,55 +1,107 @@
-## Hey 👋, I'm ClarkeChan!
+# 👋 Hey, I'm **Clarke Chan**
+
 <a href='https://www.linkedin.com/in/clarke-chan-56874319b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/Clarke_Chan_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/twitter.svg" height='18px'/></a>
-<!-- <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
-<br />
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+<br><br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/main/techstack.gif" width="360px"/>
+## 🚀 About Me
 
-### 🧐 More About Me:
+I’m a **Software Engineer** focusing on:
 
-<!-- - 🔭 &nbsp; I’m currently working on **youtube-audio-player** -->
-<!-- - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database) -->
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/clarkechan?tab=repositories)
-<!-- - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉 -->
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/clarke-chan-56874319b)
-<!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read -->
+- 🖥 **C#  | WinForms / WPF / .NET Framework 4.8**
+- 🤖 **Industrial Automation**
+- 📷 **Machine Vision (2D Inspection / Cognex / Halcon / MVS SDK)**
+- 🔧 **Camera Control, Robotics & PLC Integration**
+- 🛠 **High-performance production line systems**
+- 🗄 **SQLite / MySQL traceability platforms**
+- 🧠 Learning **Deep Learning & Computer Vision (PyTorch)**
 
-<br>
+I love building automation systems that run on real production lines,  
+where **software meets hardware**.
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/main/techstack.gif" width="330px"/>
+
+### 🧐 More About Me
+
+- 🌱 Learning **TypeScript** & **AI training workflows**
+- 👨🏻‍💻 Working on multiple **industrial inspection systems**
+- 💬 Open to discussing automation, machine vision & C#
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/clarke-chan-56874319b)
 
 <br>
 
+---
 
-### 📊 Github Stats
-<!-- <a href='https://github.com/clarkechan/github-stats-transparent'>
+## 🛠️ Tech Stack
 
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+### **Industrial & Vision**
+- 🎥 HikRobot / MVS / MvCameraControl  
+- 🎯 Cognex VisionPro (VPP pipelines)  
+- 🔦 Exposure / Gain / Gamma tuning  
+- 🤖 PLC Modbus TCP, multi-arm synchronization  
+- 📐 OpenCV / traditional CV algorithms  
 
-</a>
- -->
-<br>
+### **Software Development**
+- 💻 C#, .NET Framework, WinForms / WPF  
+- 🗄 SQLite, MySQL, CSV/INI file pipelines  
+- 🧵 Multi-threading, async workflows  
+- 🔌 API & JSON parsing  
+- 🧪 Diagnostic tools, logging frameworks  
 
-### 🛠️ My Projects
+### **Web & General**
+- JavaScript / TypeScript  
+- React, Node.js  
+- Python  
+
+---
+
+## 📚 Featured Projects
+
+### 🔍 **Industrial Traceability System (C# + SQLite)**
+- Stores images + defect JSON  
+- Portable traceability.db database  
+- Asynchronous data loading  
+- Image zoom with defect overlay scaling  
+- SN search, NG-only analysis, production statistics  
+
+### 🤖 **Dual-Robot Parallel Inspection Framework**
+- Left/Right robot parallel measurement  
+- Multi-thread SN queue  
+- Full workflow: Load → Scan → A-hand inspect → B-hand inspect → Unload  
+- Intelligent IO waiting (5+ minutes)  
+- Material caching & pipeline-safe design  
+
+### 📷 **HK/MVS Camera Control SDK (C#)**
+Custom class with:
+- Open/close camera  
+- Set exposure, gain, gamma  
+- Soft trigger  
+- Convert to Cognex image  
+- High-speed image saving  
+
+### 🧠 **MySQL Inspection Records Platform**
+- Production data structuring  
+- Auto-save images, SN, JSON, results  
+- WinForms query UI  
+- Date, SN and multi-condition search  
+
+### 🧪 **AI / Computer Vision Learning**
+- PyTorch training workflows  
+- Tensor operations, dataloaders  
+- Image preprocessing  
+- Traditional CV algorithms: edge, filter, template matching  
+
+---
+
+## 📊 GitHub Stats
+> *(You can add your GitHub stats here if you enable the widget)*
+
+---
+
+## 🧰 Currently Working On
+- Learning deep learning with PyTorch  
+- Improving automation inspection software architecture  
+- Building a complete production traceability platform  
+- Enhancing industrial AI workflow skills  
+
