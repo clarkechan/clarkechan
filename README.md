@@ -12,17 +12,11 @@ I’m a **Software Engineer** focusing on:
 - 🖥 **C#  | WinForms / WPF / .NET Framework 4.8**
 - 🤖 **Industrial Automation**
 - 📷 **Machine Vision (2D Inspection / Cognex / Halcon / MVS SDK)**
-- 🔧 **Camera Control, Robotics & PLC Integration**
-- 🛠 **High-performance production line systems**
 - 🗄 **SQLite / MySQL traceability platforms**
 - 🧠 Learning **Deep Learning & Computer Vision (PyTorch)**
 
 I love building automation systems that run on real production lines,  
 where **software meets hardware**.
-
-<br/>
-<br/><br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/main/techstack.gif" width="330px"/>
 
