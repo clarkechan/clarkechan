@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **Clarke Chan**
 
-<a href='https://www.linkedin.com/in/clarke-chan-56874319b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/Clarke_Chan_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/clarke-chan-803701399/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/linkedin.svg" height='18px'/></a>
+<a href='https://x.com/mrclarkechan'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/clarkechan/clarkechan/81ac709bde8cc233744a0a65649fb6a4b027eb16/assets/twitter.svg" height='18px'/></a>
 
 <br><br>
 
@@ -31,11 +31,10 @@ where **software meets hardware**.
 
 <br>
 
----
-
 ## 🛠️ Tech Stack
 
 ### Industrial & Vision
+
 - 🎥 HikRobot / MVS / MvCameraControl  
 - 🎯 Cognex VisionPro (VPP pipelines)  
 - 🔦 Exposure / Gain / Gamma tuning  
@@ -43,6 +42,7 @@ where **software meets hardware**.
 - 📐 OpenCV / traditional CV algorithms  
 
 ### Software Development
+
 - 💻 C#, .NET Framework, WinForms / WPF  
 - 🗄 SQLite, MySQL, CSV/INI file pipelines  
 - 🧵 Multi-threading, async workflows  
@@ -50,11 +50,12 @@ where **software meets hardware**.
 - 🧪 Diagnostic tools, logging frameworks  
 
 ### Web & General
+
 - JavaScript / TypeScript  
 - React, Node.js  
 - Python  
 
----
+<br>
 
 ## 🔨 Languages and Tools
 
@@ -100,11 +101,10 @@ where **software meets hardware**.
 
 <br><br><br>
 
----
-
 ## 📚 Featured Projects
 
 ### 🔍 Industrial Traceability System (C# + SQLite)
+
 - Stores images + defect JSON  
 - Portable `traceability.db` database  
 - Asynchronous data loading  
@@ -112,6 +112,7 @@ where **software meets hardware**.
 - SN search, NG-only analysis, production statistics  
 
 ### 🤖 Dual-Robot Parallel Inspection Framework
+
 - Left/Right robot parallel measurement  
 - Multi-thread SN queue  
 - Full workflow: Load → Scan → A-hand inspect → B-hand inspect → Unload  
@@ -119,7 +120,9 @@ where **software meets hardware**.
 - Material caching & pipeline-safe design  
 
 ### 📷 HK/MVS Camera Control SDK (C#)
+
 Custom class with:
+
 - Open/close camera  
 - Set exposure, gain, gamma  
 - Soft trigger  
@@ -127,24 +130,20 @@ Custom class with:
 - High-speed image saving  
 
 ### 🧠 MySQL Inspection Records Platform
+
 - Production data structuring  
 - Auto-save images, SN, JSON, results  
 - WinForms query UI  
 - Date, SN and multi-condition search  
 
 ### 🧪 AI / Computer Vision Learning
+
 - PyTorch training workflows  
 - Tensor operations, dataloaders  
 - Image preprocessing  
 - Traditional CV algorithms: edge, filter, template matching  
 
----
-
-## 📊 GitHub Stats
-
-> *(Add your GitHub stats cards here if you want.)*
-
----
+<br>
 
 ## 🧰 Currently Working On
 
@@ -152,4 +151,3 @@ Custom class with:
 - Improving automation inspection software architecture  
 - Building a complete production traceability platform  
 - Enhancing industrial AI workflow skills  
-
