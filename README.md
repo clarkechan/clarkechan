@@ -7,6 +7,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/main/techstack.gif" width="330px"/>
+
 I’m a **Software Engineer** focusing on:
 
 - 🖥 **C#  | WinForms / WPF / .NET Framework 4.8**
@@ -18,7 +20,7 @@ I’m a **Software Engineer** focusing on:
 I love building automation systems that run on real production lines,  
 where **software meets hardware**.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/clarkechan/clarkechan/main/techstack.gif" width="330px"/>
+
 
 ### 🧐 More About Me
 
